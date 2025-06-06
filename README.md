@@ -1,5 +1,5 @@
 # Terminal Phone
-I have accessed this file.
+I 
 ## Getting Started
 
 ### Clone this Repo
